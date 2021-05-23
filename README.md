@@ -5,17 +5,17 @@
 ___________________
 ### Deployment:
 
-* [Store]()
+* [Store](https://60aae02f8f6d99f8a2b4ceee--hungry-leakey-9215fc.netlify.app/)
 
 Or:
 
-* [Store]()
+* [Store](https://hungry-leakey-9215fc.netlify.app/)
 
 __________________
 
 ## UML:
 
-![uml]()
+![uml](./assets/UML9.png)
 
 
 
