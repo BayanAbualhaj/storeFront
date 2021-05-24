@@ -6,6 +6,7 @@ import DenseAppBar from './components/header';
 import Categories from './components/categories';
 import Products from './components/products';
 import Footer from './components/footer';
+import Cart from './components/cart';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <DenseAppBar />
       <Categories />
       <Products />
+      <Cart/>
       <Footer />
     </Provider>
   );
